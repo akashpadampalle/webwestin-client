@@ -1,0 +1,15 @@
+.container{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 48px;
+    mix-blend-mode: multiply;
+}
+
+.name {
+    font-size: 32px;
+    margin-left: 12px;
+}
